@@ -41,7 +41,7 @@ ADMIN_PASSWORD=your_admin_password
 
 ## 🔒 链接安全限制
 
-- 拒绝指向 `dour.in` 的链接（请自行更改，位于worker.js第550行）
+- 拒绝指向 `dour.in` 的链接（请自行更改，位于`worker.js`第550行）
 - 拒绝包含中国大陆认定为邪教/反共的网站链接（例如 falundafa, minghui 等）
 - 常用社交平台如 YouTube、Telegram、Facebook、X 等白名单通过
 
