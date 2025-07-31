@@ -2,7 +2,7 @@
 
 这是一个基于 **Cloudflare Workers + KV** 实现的完全由AI生成的短链接系统。
 
-示例站点：[dour.in](https://dour.in/)
+示例站点：[f0x.in](https://f0x.in/)
 
 ## ❗ 已知问题
 
