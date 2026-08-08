@@ -6,7 +6,7 @@
 
 ## ❗ 已知问题
 
-**管理后台无法搜索；管理后台删除短链接时有概率Error 1101，目前无法修复。欢迎大佬提交PRs。**
+**管理后台删除短链接时有概率Error 1101，目前无法修复。欢迎大佬提交PRs。**
 
 ## 🚀 功能特性
 
@@ -42,7 +42,7 @@ ADMIN_PASSWORD=your_admin_password
 
 ## 🔒 链接安全限制
 
-- 拒绝指向 `dour.in` 的链接（请自行更改，位于`worker.js`第550行）
+- 拒绝指向 `f0x.in` 的链接（请自行更改，位于`worker.js`第550行）
 - 拒绝包含中国大陆认定为邪教/反共的网站链接（例如 falundafa, minghui 等）
 - 常用社交平台如 YouTube、Telegram、Facebook、X 等白名单通过
 
